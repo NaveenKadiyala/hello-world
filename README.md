@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi there,
+I'm new here.
+plz add something new regarding Android Application Development.
